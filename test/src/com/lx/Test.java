@@ -11,6 +11,6 @@ package com.lx;
  */
 public class Test {
     public static void main(String[] args) {
-        System.err.println("Hello World00000009999");
+        System.err.println("Hello World");
     }
 }
